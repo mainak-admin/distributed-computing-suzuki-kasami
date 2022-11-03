@@ -28,7 +28,7 @@ For selecting the node is advisable to use **IP 127.0.0.1**
 
 ## Compiling the program: ##
 
-**Step1:** Place Suzuki_kasami.java and nodes.config in a folder at the same level. Open cmd in adminstrator mode and move to the location where the file is placed.
+**Step1:** Place Suzuki_kasami.java and nodes.config in a folder at the same level. Open cmd in administrator mode and move to the location where the file is placed.
 
 **Step2:** Compile the code using: javac Suzuki_kasami.java
 
