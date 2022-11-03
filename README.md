@@ -49,7 +49,7 @@ Once the program starts, it will ask the site number:<br/>
 <br/>
 **Note:** Before pressing ENTER please ensure all sites are initialized by running the compilation commands on respective command prompts. For example: If there are 4 sites then the compilation code should be executed on 4 separate command prompts. The basic assumption is that, all the sites are in a running state pre execution. The program will execute successfully once all sites are up.<br/>
 Once all sites are up, press ENTER on any site and the algorithm will work. On initialization, site 1 will hold the token.<br/>
-Threads are used by the program to handle incoming requests, synchronzing LN and sending token.<br/>
+Threads are used by the program to handle incoming requests, synchronizing LN and sending token.<br/>
 
 **Output logs:**<br/>
 
