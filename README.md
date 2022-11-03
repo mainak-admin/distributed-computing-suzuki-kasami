@@ -20,7 +20,7 @@ Example:<br/>
 3 127.0.0.1 49786<br/>
 4 127.0.0.1 6942<br/>
 
-To find open ports in comfigured system:<br/>
+To find open ports in configured system:<br/>
 Windows: netstat -aon<br/>
 Ubuntu: netstat -tnlp<br/>
 
